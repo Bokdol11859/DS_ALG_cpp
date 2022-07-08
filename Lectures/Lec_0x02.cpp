@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-
 using namespace std;
 
 bool cmp2(vector<int>& v1, vector<int>& v2, int idx){
